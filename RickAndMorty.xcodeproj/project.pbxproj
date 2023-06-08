@@ -54,6 +54,7 @@
 		6E93EF762A325ADB00F2FD85 = {
 			isa = PBXGroup;
 			children = (
+				6EDDE0172A327720000FD6C5 /* .gitignore */,
 				6E93EF812A325ADB00F2FD85 /* RickAndMorty */,
 				6E93EF802A325ADB00F2FD85 /* Products */,
 			);
@@ -78,7 +79,6 @@
 				6E93EF972A325E1700F2FD85 /* Models */,
 				6E93EF962A325DE400F2FD85 /* Controllers */,
 				6E93EF902A325ADB00F2FD85 /* Info.plist */,
-				6EDDE0172A327720000FD6C5 /* .gitignore */,
 			);
 			path = RickAndMorty;
 			sourceTree = "<group>";
